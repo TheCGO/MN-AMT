@@ -1,0 +1,13 @@
+name: mn-amt-dev
+channels:
+- conda-forge
+dependencies:
+- python=3.10
+- ipython
+- jupyter
+- bokeh >= 3.1.1
+- pip
+- pip:
+  - fiscalsim-us==0.2.1
+  - geopandas
+  - openpyxl
