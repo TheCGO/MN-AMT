@@ -1,0 +1,52 @@
+State,Abbrev,StateAMT,StateAMT_str,StateAMT_str_short,fill_color
+Alabama,AL,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Alaska,AK,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Arizona,AZ,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Arkansas,AR,0,No state alternative minimum tax,No state AMT,#D8D3D3
+California,CA,1,Has state alternative minimum tax,Has state AMT,purple
+Colorado,CO,1,Has state alternative minimum tax,Has state AMT,purple
+Connecticut,CT,1,Has state alternative minimum tax,Has state AMT,purple
+Delaware,DE,0,No state alternative minimum tax,No state AMT,#D8D3D3
+District of Columbia,DC,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Florida,FL,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Georgia,GA,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Hawaii,HI,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Idaho,ID,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Illinois,IL,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Indiana,IN,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Iowa,IA,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Kansas,KS,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Kentucky,KY,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Louisiana,LA,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Maine,ME,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Maryland,MD,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Massachusetts,MA,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Michigan,MI,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Minnesota,MN,1,Has state alternative minimum tax,Has state AMT,purple
+Mississippi,MS,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Missouri,MO,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Montana,MT,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Nebraska,NE,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Nevada,NV,0,No state alternative minimum tax,No state AMT,#D8D3D3
+New Hampshire,NH,0,No state alternative minimum tax,No state AMT,#D8D3D3
+New Jersey,NJ,0,No state alternative minimum tax,No state AMT,#D8D3D3
+New Mexico,NM,0,No state alternative minimum tax,No state AMT,#D8D3D3
+New York,NY,0,No state alternative minimum tax,No state AMT,#D8D3D3
+North Carolina,NC,0,No state alternative minimum tax,No state AMT,#D8D3D3
+North Dakota,ND,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Ohio,OH,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Oklahoma,OK,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Oregon,OR,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Pennsylvania,PA,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Rhode Island,RI,0,No state alternative minimum tax,No state AMT,#D8D3D3
+South Carolina,SC,0,No state alternative minimum tax,No state AMT,#D8D3D3
+South Dakota,SD,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Tennessee,TN,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Texas,TX,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Utah,UT,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Vermont,VT,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Virginia,VA,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Washington,WA,0,No state alternative minimum tax,No state AMT,#D8D3D3
+West Virginia,WV,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Wisconsin,WI,0,No state alternative minimum tax,No state AMT,#D8D3D3
+Wyoming,WY,0,No state alternative minimum tax,No state AMT,#D8D3D3
